@@ -2,7 +2,8 @@
 
 ## **Customer Analytics**
 
-📺 [Watch the Project Overview Video](https://youtu.be/knfnCO0xm20?si=6CrAsKTChZTVVe2V)
+# Watch the video 🎥
+[![YouTube Video](https://img.shields.io/badge/Watch%20on%20YouTube-Click%20Here-red)](https://youtu.be/knfnCO0xm20?si=StgLiGFdTUwmG9DJ)
 
 # Overview 🚀
 
@@ -25,9 +26,6 @@ The project was executed in the following steps:
 3. **Descriptive Analysis**: Conduct comprehensive analysis on purchase data.
 4. **Answering Key Questions**: Use price elasticity models to answer critical questions.
 
-# Conclusion 📝
-
-Wrap up of the project, including details on any applications or tools developed.
 
 # Access 🌐
 
