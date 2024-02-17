@@ -1,12 +1,14 @@
-# Project Title
+# Project Title 🔍
 
-## Customer Analytics
+## **Customer Analytics**
 
-## Overview
+📺 [Watch the Project Overview Video](https://youtu.be/knfnCO0xm20?si=6CrAsKTChZTVVe2V)
+
+# Overview 🚀
 
 Brief overview of the project.
 
-## Objectives
+# Objectives 🎯
 
 The project aimed to achieve the following objectives:
 
@@ -14,7 +16,7 @@ The project aimed to achieve the following objectives:
 - **Descriptive Analysis**: Perform in-depth analysis on purchase data.
 - **Answering Key Questions**: Address critical questions regarding purchase behavior.
 
-## Execution
+# Execution 🛠️
 
 The project was executed in the following steps:
 
@@ -23,13 +25,12 @@ The project was executed in the following steps:
 3. **Descriptive Analysis**: Conduct comprehensive analysis on purchase data.
 4. **Answering Key Questions**: Use price elasticity models to answer critical questions.
 
-## Conclusion
+# Conclusion 📝
 
 Wrap up of the project, including details on any applications or tools developed.
 
-## Access
+# Access 🌐
 
 - [Streamlit App](https://lnkd.in/gQKJu8N9)
-- [GitHub Repository](https://lnkd.in/giaXzwj4)
 
 Feel free to explore the app and the project's code on GitHub for a more detailed view of the work accomplished. If you have any questions or need further information, please don't hesitate to reach out.
